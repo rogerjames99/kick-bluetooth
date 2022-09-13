@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version=1.0
+Name=Kick bluetooth
+Exec=kick-bluetooth
+Terminal=false
+Type=Application
