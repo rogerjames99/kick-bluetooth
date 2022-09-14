@@ -1,6 +1,8 @@
 [Desktop Entry]
 Version=1.0
 Name=Kick bluetooth
+# The following line relies on kick-desktop being on the executable path.
+# An absolute path to the file will also work.
 Exec=kick-bluetooth
 Terminal=false
 Type=Application
